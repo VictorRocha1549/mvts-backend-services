@@ -6,7 +6,7 @@
 package mx.itson.mvts.mvtsbackend.controllers;
 
 import mx.itson.mvts.mvtsbackend.models.Vehiculo;
-import mx.itson.mvts.mvtsbackend.repositories.VehiculoRepository;
+import mx.itson.mvts.mvtsbackend.repository.mongo.VehiculoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
