@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
 
-package mx.itson.mvts.mvtsbackend.repositories;
+package mx.itson.mvts.mvtsbackend.repository.mongo;
 
 import mx.itson.mvts.mvtsbackend.models.Vehiculo;
 import org.springframework.data.mongodb.repository.MongoRepository;
